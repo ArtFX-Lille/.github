@@ -18,7 +18,7 @@ Refer to the **Contributor List below** to get their contact infos.<br>
 
 L4 students will get acces to their **own repository**, based on the `artfxLillePipeline_template` when they'll start the production of their **test shot for their end of studies film, starting on April**. <br>
 
-**ℹ️ It's not possible for L4 students to ask to get acces to the L5 repository. Don't ask the authorization to an administrator before you reveive your own repository. Be patient.** <br>
+**ℹ️ It's not possible for L4 students to ask to get acces to the L5 repository. Don't ask the authorization to an administrator before you receive your own repository. Be patient.** <br>
 
 Every single student will get viewing access to the `artfxLillePipeline_archive`, for tracability and researches.
 </p>
