@@ -6,6 +6,8 @@ If you want to integrate the artfxLillePipeline repository of your current promo
 
 ## Contributors of artfxLillePipeline_2026
 
+<!--- This list should be updated for each year, you can copy it from the CONTRIBUTING.md inside the artfxLillePipeline repository -->
+
 | Name | Role | E-mail |
 | ---- | ---- | ------ |
 | Thomas SPONY | Administrator | thomas.spony@artfx.fr |
@@ -17,12 +19,3 @@ If you want to integrate the artfxLillePipeline repository of your current promo
 | Antoine LACOSTE | Contributor | antoine.lacoste@artfx.fr |
 | Fabio SGUERA | Contributor | fsguera@artfx.fr |
 | Arthur CAUCHOIS | Contributor | acauchois@artfx.fr |
-
-## Contributors of artfxLillePipeline_2027
-
-| Name | Role | E-mail |
-| ---- | ---- | ------ |
-| Thomas SPONY | Administrator | thomas.spony@artfx.fr |
-| Tim LEBON | Administrator | tim.lebon@artfx.fr |
-| Loris ECK | Administrator | leck@artfx.fr |
-| Valentin BARNEOUD | Moderator | valentin.barneoud@artfx.fr |
